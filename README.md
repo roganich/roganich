@@ -1,4 +1,7 @@
-### Hi, I'm Nicolás Rodríguez García👋
+## Hi, I'm Nicolás Rodríguez García👋
+
+
+**Education & Affiliations**
 
 - Undergraduate: Biomedical Engineer & Industrial Engineer from [Universidad de los Andes](https://uniandes.edu.co/)
 
@@ -7,10 +10,16 @@
 -Doctorate: from [INSTITUTION](LINK OF INSTITUTION.com)
 -->
 
-
 Member of [BIOMAC](https://github.com/biomac-lab)
 
+**Research**
 
+
+**Contact**
+
+<!--
+-Twitter: from [INSTITUTION](LINK OF INSTITUTION.com)
+-->
 You can reach me at <n.rodriguezg@uniandes.edu.co>
 
 <!--
