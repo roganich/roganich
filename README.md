@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Nicolás Rodríguez 👋
+
+Member of [BIOMAC]([https://link-url-here.org](https://github.com/biomac-lab))
+
+
 
 <!--
 **roganich/roganich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
