@@ -4,7 +4,6 @@
 **Education & Affiliations**
 
 - Undergraduate: Biomedical Engineer & Industrial Engineer from [Universidad de los Andes](https://uniandes.edu.co/)
-
 - Master: Student in Biomedical Engineering at [Universidad de los Andes](https://uniandes.edu.co/)
 <!--
 -Doctorate: from [INSTITUTION](LINK OF INSTITUTION.com)
@@ -12,8 +11,11 @@
 
 Member of [BIOMAC](https://github.com/biomac-lab)
 
-**Research**
+![BIOMAC!](https://ibb.co/SX79g0K)
 
+**Research**
+- Optimization of the distribution of anti-ophidic serum under uncertainty.
+- 
 
 **Contact**
 
