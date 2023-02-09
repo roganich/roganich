@@ -1,8 +1,12 @@
-### Hi, I'm Nicolás Rodríguez 👋
+### Hi, I'm Nicolás Rodríguez García👋
+
+Undergraduate: Biomedical Engineer & Industrial Engineer
+Graduate: 
 
 Member of [BIOMAC](https://github.com/biomac-lab)
 
 
+You can reach me at <n.rodriguezg@uniandes.edu.co>
 
 <!--
 **roganich/roganich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
