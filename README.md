@@ -11,7 +11,7 @@
 
 Member of [BIOMAC](https://github.com/biomac-lab)
 
-![!](https://imgur.com/a/OXKK8rD)
+!(https://imgur.com/a/OXKK8rD)
 
 
 **Research**
