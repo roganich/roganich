@@ -1,9 +1,9 @@
 ### Hi, I'm Nicolás Rodríguez García👋
 
-Undergraduate: Biomedical Engineer & Industrial Engineer from [Universidad de los Andes](https://uniandes.edu.co/)
-Master: Student in Biomedical Engineering at [Universidad de los Andes](https://uniandes.edu.co/)
+-Undergraduate: Biomedical Engineer & Industrial Engineer from [Universidad de los Andes](https://uniandes.edu.co/)
+-Master: Student in Biomedical Engineering at [Universidad de los Andes](https://uniandes.edu.co/)
 <!--
-Doctorate: from [INSTITUTION](LINK OF INSTITUTION.com)
+-Doctorate: from [INSTITUTION](LINK OF INSTITUTION.com)
 -->
 
 
