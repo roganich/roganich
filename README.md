@@ -11,7 +11,7 @@
 
 Member of [BIOMAC](https://github.com/biomac-lab)
 
-![BIOMAC!](https://ibb.co/SX79g0K)
+![](https://ibb.co/SX79g0K)
 
 **Research**
 - Optimization of the distribution of anti-ophidic serum under uncertainty.
