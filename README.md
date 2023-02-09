@@ -11,7 +11,8 @@
 
 Member of [BIOMAC](https://github.com/biomac-lab)
 
-![](https://imgur.com/a/OXKK8rD)
+![The San Juan Mountains are beautiful!](https://imgur.com/a/OXKK8rD)
+
 
 **Research**
 - Optimization of the distribution of anti-ophidic serum under uncertainty.
