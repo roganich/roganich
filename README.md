@@ -1,6 +1,6 @@
 ### Hi, I'm Nicolás Rodríguez 👋
 
-Member of [BIOMAC]([https://github.com/biomac-lab])
+Member of [BIOMAC](https://github.com/biomac-lab)
 
 
 
