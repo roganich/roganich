@@ -11,7 +11,7 @@
 
 Member of [BIOMAC](https://github.com/biomac-lab)
 
-![](https://imgur.com/a/OXKK8rD)
+![](https://gist.github.com/roganich/8862e4a2310bc727603477d7e3add2b4#:~:text=Raw-,BIOMAC_LOGO_SHORT.md,-Write)
 
 
 **Research**
