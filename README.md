@@ -23,7 +23,7 @@ Member of [BIOMAC](https://github.com/biomac-lab)
 
 ### Current
 
-- 
+- Epidemiology behaviour under social dillemmas
 
 
 ## Contact
