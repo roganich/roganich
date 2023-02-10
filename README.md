@@ -1,4 +1,4 @@
-# Hi, I'm Nicolás Rodríguez García👋
+# Hi, I'm Nicolás Rodríguez García
 
 
 ## Education & Affiliations
