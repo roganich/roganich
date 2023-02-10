@@ -1,12 +1,13 @@
-## Hi, I'm Nicolás Rodríguez García👋
+# Hi, I'm Nicolás Rodríguez García👋
 
 
-**Education & Affiliations**
+## Education & Affiliations
 
-- Undergraduate: Biomedical Engineer & Industrial Engineer from [Universidad de los Andes](https://uniandes.edu.co/)
+- Bachelor: Biomedical Engineer & Industrial Engineer from [Universidad de los Andes](https://uniandes.edu.co/)
 - Master: Student in Biomedical Engineering at [Universidad de los Andes](https://uniandes.edu.co/)
 <!--
--Doctorate: from [INSTITUTION](LINK OF INSTITUTION.com)
+- Doctorate: from [INSTITUTION](LINK OF INSTITUTION.com)
+- Post-Doctorate: 
 -->
 
 Member of [BIOMAC](https://github.com/biomac-lab)
@@ -14,14 +15,18 @@ Member of [BIOMAC](https://github.com/biomac-lab)
 <img width="217" alt="Logo_Short" src="https://user-images.githubusercontent.com/73041689/218108873-dd5daaaa-2874-43d3-a089-8403dda3e18f.png">
 
 
-**Research**
+## Research
 
+### Previous
 
+- Optimization of the distribution of anti-ophidic serum under uncertainty. 
 
-- Optimization of the distribution of anti-ophidic serum under uncertainty.
+### Current
+
 - 
 
-**Contact**
+
+## Contact
 
 <!--
 -Twitter: from [INSTITUTION](LINK OF INSTITUTION.com)
