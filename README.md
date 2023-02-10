@@ -11,7 +11,7 @@
 
 Member of [BIOMAC](https://github.com/biomac-lab)
 
-![BIOMAC](https://user-images.githubusercontent.com/73041689/218107041-5b8fb629-d9f5-4bbe-a73b-da7f2885c9ef.png)
+![BIOMAC](https://user-images.githubusercontent.com/73041689/218107041-5b8fb629-d9f5-4bbe-a73b-da7f2885c9ef.png =100x100)
 
 
 **Research**
