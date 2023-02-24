@@ -20,11 +20,12 @@ Member of [BIOMAC](https://github.com/biomac-lab)
 
 ## Research
 
-### Previous:
+<!-- ### Previous: -->
 
-- Optimization of the distribution of anti-ophidic serum under uncertainty. 
 
 ### Current:
+
+- Optimization of the distribution of anti-ophidic serum under uncertainty. 
 
 - Epidemiology behaviour under social dillemmas
 
