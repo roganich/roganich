@@ -9,7 +9,6 @@
 <!-- - Post Doctorate: from [INSTITUTION](LINK OF INSTITUTION.com) -->
 
 
-
 Member of [BIOMAC](https://github.com/biomac-lab)
 
 
@@ -29,18 +28,19 @@ Member of [BIOMAC](https://github.com/biomac-lab)
 
 - Epidemiology behaviour under social dillemmas
 
-<!-- ### Interests: -->
+### Interests:
 
 <!-- - Interest 1 -->
 <!-- - Interest 2 -->
 <!-- - Interest 3 -->
 
+## Hobbies
+
+- Tennis player at least once a week.
+- Pokemon GO Enthusiast.
 
 
 ## Contact
 
-<!--
--Twitter: from [INSTITUTION](LINK OF INSTITUTION.com)
--->
 You can reach me at <n.rodriguezg@uniandes.edu.co>
 
