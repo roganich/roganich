@@ -37,7 +37,7 @@ Member of [BIOMAC](https://github.com/biomac-lab)
 ## Hobbies
 
 - Tennis player at least once a week.
-- Pokemon GO Enthusiast.
+
 
 
 ## Contact
