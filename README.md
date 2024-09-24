@@ -37,10 +37,11 @@ Member of [BIOMAC](https://github.com/biomac-lab)
 ## Hobbies
 
 - Tennis player at least once a week.
+- Mélomano los fines de semana.
 
 
 
 ## Contact
 
-You can reach me at <n.rodriguezg@uniandes.edu.co>
+You can reach me at <n.rodriguezg@uniandes.edu.co> or <rodgarnicolas@gmail.com>
 
