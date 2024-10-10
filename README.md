@@ -3,7 +3,8 @@
 
 ## Education & Affiliations
 
-- Bachelor: Biomedical Engineer & Industrial Engineer from [Universidad de los Andes](https://uniandes.edu.co/)
+- Bachelor: Biomedical Engineer from [Universidad de los Andes](https://uniandes.edu.co/)
+- Bachelor: Industrial Engineer from [Universidad de los Andes](https://uniandes.edu.co/)
 - Master: Student in Biomedical Engineering at [Universidad de los Andes](https://uniandes.edu.co/)
 <!-- - Doctorate: from [INSTITUTION](LINK OF INSTITUTION.com) -->
 <!-- - Post Doctorate: from [INSTITUTION](LINK OF INSTITUTION.com) -->
